@@ -52,8 +52,8 @@ Welcome to the **AI-Powered Prescription Extractor**, a Streamlit-based web app 
 ### 1. Clone the repository
 
 ```bash
-https://github.com/your-username/prescription-extractor.git
-cd prescription-extractor
+https://github.com/vikas-kashyap97/Prescription-Extractor.git
+cd Prescription-Extractor
 ```
 ### 2. Create and activate a virtual environment
 
